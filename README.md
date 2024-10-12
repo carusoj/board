@@ -40,11 +40,11 @@ Avec $-1$ ou valeur négative, tous les segmensts sont off.
 
 ````text
          ┌──────────┐
-         │     A    │
+         │     B    │
          └──────────┘
     ┌──┐              ┌──┐
     │  │              │  │
-    │F │              │B │
+    │A │              │C │
     │  │              │  │
     └──┘              └──┘
          ┌──────────┐
@@ -52,11 +52,11 @@ Avec $-1$ ou valeur négative, tous les segmensts sont off.
          └──────────┘
     ┌──┐              ┌──┐
     │  │              │  │
-    │E │              │C │
+    │F │              │D │
     │  │              │  │
     └──┘              └──┘
          ┌───────────┐
-         │     D     │
+         │     E     │
          └───────────┘
 ````
 
